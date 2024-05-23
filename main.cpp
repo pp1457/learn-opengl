@@ -7,6 +7,8 @@
 
 #include "../opengl-tools/shader.h"
 
+#include "../opengl-tools/stb_image.h"
+
 void framebuffer_size_callback(GLFWwindow* window, int width, int height);
 void processInput(GLFWwindow *window);
 
